@@ -108,8 +108,19 @@ MetaSUB City Sampling Day の目標．
 GoSWABでは，都内でサンプリングを予定しています．
 
 ## ・参考HP
+
 [MetaSUB](http://metasub.org/)  
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 NYの地下鉄にいる微生物を網羅的に調べたWeill Cornell Medical CollegeのMason博士が立ち上げたコンソーシアム．
 
-[haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)
+[haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)  
+MetaSUB関連の情報をまとめているサイト．  
+
+[ビッグデータとバクテリア―NY地下鉄のDNAマップ作成](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)  
+Weill Cornell Medical CollegeのMason博士のMetaSUBの前身であるpathomapを取り上げた日本語サイト．  
+
+[PathoMAP](http://archive.fo/67UAW)  
+NY地下鉄のDNAマップ
+
+
+
