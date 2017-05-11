@@ -33,7 +33,10 @@ GoSWABの目的は
 
 ### サンプリングの様子
 <img src="http://i.imgur.com/CTZhrUN.jpg" width="320px">
-
+<img src="http://i.imgur.com/wo4LkIb.jpg" width="320px">
+<img src="http://i.imgur.com/tyvD5NI.jpg" width="320px">
+<img src="http://i.imgur.com/SP9HMj3.jpg" width="320px">
+<img src="http://i.imgur.com/F4ZfG4E.jpg" width="320px">
 ### 定期ミーティング
 先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．SFCの学生が増えましたらSFCでも開催する予定です．  
 #### 論文紹介
