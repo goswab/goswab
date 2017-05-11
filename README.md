@@ -7,7 +7,7 @@ Last Update 2017-05-11
 
 ---
 
-<img src="http://i.imgur.com/Qn3s5Ea.png" width="100px"> # GoSWAB Project
+# <img src="http://i.imgur.com/Qn3s5Ea.png" width="100px">GoSWAB Project
 日本の都市環境（公共交通機関，大学，商業・観光施設）の微生物・ヒトをはじめとしたメタゲノム調査プロジェクト．
 <img src="http://i.imgur.com/Qn3s5Ea.png">
 
