@@ -74,8 +74,6 @@ B2 安藤 帆菜美
 
 
 ## ・今後の予定
-
-<img src="http://i.imgur.com/CTZhrUN.jpg" width="640px">
   
 ### GoSWAB 参加説明会  
 GoSWAB ではともに活動してくれる学生を募集します．  
@@ -102,6 +100,8 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 を明記の上以下の連絡先までメールをお願いします．
 
 *Mail*: contact.goswab[@]gmail.com  
+
+<img src="http://i.imgur.com/CTZhrUN.jpg" width="640px">
 
 ### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
 6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
