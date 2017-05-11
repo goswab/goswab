@@ -116,11 +116,13 @@ NYの地下鉄にいる微生物を網羅的に調べたWeill Cornell Medical Co
 [haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)  
 MetaSUB関連の情報をまとめているサイト．  
 
-[ビッグデータとバクテリア―NY地下鉄のDNAマップ作成](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)  
-Weill Cornell Medical CollegeのMason博士のMetaSUBの前身であるpathomapを取り上げた日本語サイト．  
-
 [PathoMAP](http://archive.fo/67UAW)  
-NY地下鉄のDNAマップ
+Weill Cornell Medical CollegeのMason博士のMetaSUBの前身になったプロジェクト．  
+
+[ビッグデータとバクテリア―NY地下鉄のDNAマップ作成](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)  
+PathoMAPを取り上げた日本語サイト．  
+
+
 
 
 
