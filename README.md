@@ -98,11 +98,9 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 所属 (大学名，学部名):  
 学年:  
 氏名:  
-を明記の上以下の連絡先までメールをお願いします．
+を明記の上以下の連絡先までメールをお願いします．  
 
 *Mail*: contact.goswab[@]gmail.com  
-
-<img src="http://i.imgur.com/CTZhrUN.jpg" width="640px">
 
 ### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
 6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
@@ -111,7 +109,9 @@ MetaSUB City Sampling Day の目標．
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡  
 3. 創薬のための新規生合成遺伝子クラスターの同定**  
 
-GoSWABでは，都内でサンプリングを予定しています．
+GoSWABでは，都内でサンプリングを予定しています．  
+
+<img src="http://i.imgur.com/CTZhrUN.jpg" width="640px">
 
 ## ・参考HP
 
