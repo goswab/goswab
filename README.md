@@ -42,8 +42,7 @@ GoSWABの目的は
 <img src="http://i.imgur.com/tyvD5NI.jpg" width="320px"> <img src="http://i.imgur.com/wo4LkIb.jpg" width="320px">
 
 ### 定期ミーティング
-
-<p>先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．  </p>
+<p>先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．<br />
 SFCの学生が増えましたらSFCでも開催する予定です．  
 #### 論文紹介
 微生物叢についての研究論文を毎週２人ずつ発表しています．
