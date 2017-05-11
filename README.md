@@ -101,7 +101,7 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 氏名:  
 を明記の上，以下の連絡先までメールをお願いします．  
 
-*Mail*: contact.goswab[@]gmail.com  
+**Mail**: contact.goswab[@]gmail.com  
 
 ### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
 6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
