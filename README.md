@@ -94,6 +94,15 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 場所：
 日時：2017年5月24日
 
+#### 参加してみたいという方は
+説明会に参加してくださる方はお手数ですが，  
+所属 (大学名，学部名):
+学年:
+氏名:  
+を明記の上以下の連絡先までメールをお願いします．
+
+Mail: contact.goswab[@]gmail.com  
+
 ### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
 6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
 MetaSUB City Sampling Day の目標．  
