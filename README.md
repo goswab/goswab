@@ -75,7 +75,7 @@ B2 安藤 帆菜美
 
 ## ・今後の予定
 
-<img src="http://i.imgur.com/CTZhrUN.jpg">
+<img src="http://i.imgur.com/CTZhrUN.jpg" width="640px">
   
 ### GoSWAB 参加説明会  
 GoSWAB ではともに活動してくれる学生を募集します．  
