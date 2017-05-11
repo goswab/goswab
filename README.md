@@ -116,7 +116,7 @@ GoSWABでは，都内でサンプリングを予定しています．
 ## ・参考HP
 
 [MetaSUB](http://metasub.org/)  
-MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
+MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 NYの地下鉄にいる微生物を網羅的に調べたWeill Cornell Medical CollegeのMason博士が立ち上げたコンソーシアム．
 
 [haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)  
