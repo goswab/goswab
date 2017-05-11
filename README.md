@@ -74,7 +74,7 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 場所：
 日時：
 
-### MetaSUB City Sampling Day  
+### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
 6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
 MetaSUB City Sampling Day の目標．  
 1. 地理空間メタゲノムと法医学遺伝地図の作成  
