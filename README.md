@@ -32,7 +32,7 @@ GoSWABの目的は
 慶應義塾大学の湘南藤沢キャンパス，三田キャンパス，東京大学駒場キャンパスの計３箇所で微生物の採集を行いました．
 
 ### サンプリングの様子
-![sampling1](http://i.imgur.com/CTZhrUN.jpg)
+<img src="http://i.imgur.com/CTZhrUN.jpg" width="320px">
 
 ### 定期ミーティング
 先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．SFCの学生が増えましたらSFCでも開催する予定です．  
