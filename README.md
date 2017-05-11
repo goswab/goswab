@@ -102,3 +102,7 @@ MetaSUB City Sampling Day の目標．
 3. 創薬のための新規生合成遺伝子クラスターの同定  
 
 GoSWABでは，都内でサンプリングを予定しています．
+
+## ・参考HP
+[MetaSUB](http://metasub.org/)  
+[haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)
