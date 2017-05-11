@@ -116,17 +116,17 @@ GoSWABの目的は
 ## ・参考HP
 
 [MetaSUB](http://metasub.org/)  
-MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-ニューヨーク地下鉄の微生物を網羅的に調べたWeill Cornell Medical CollegeのMason博士が立ち上げたコンソーシアム．
+    MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
+    ニューヨーク地下鉄の微生物を網羅的に調べたWeill Cornell Medical CollegeのMason博士が立ち上げたコンソーシアム．
 
 [haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)  
-MetaSUB関連の情報をまとめているサイト．  
+    MetaSUB関連の情報をまとめているサイト．  
 
 [PathoMAP](http://archive.fo/67UAW)  
-Weill Cornell Medical CollegeのMason博士のMetaSUBの前身になったプロジェクト．  
+    Weill Cornell Medical CollegeのMason博士のMetaSUBの前身になったプロジェクト．  
 
 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)  
-PathoMAPを取り上げた日本語サイト．  
+    PathoMAPを取り上げた日本語サイト．  
 
 
 
