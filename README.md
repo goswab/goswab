@@ -37,7 +37,8 @@ GoSWABの目的は
 <img src="http://i.imgur.com/tyvD5NI.jpg" width="320px"> <img src="http://i.imgur.com/wo4LkIb.jpg" width="320px">
 
 ### 定期ミーティング
-先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．SFCの学生が増えましたらSFCでも開催する予定です．  
+先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．  
+SFCの学生が増えましたらSFCでも開催する予定です．  
 #### 論文紹介
 微生物叢についての研究論文を毎週２人ずつ発表しています．
 #### 実験計画など
@@ -106,5 +107,5 @@ GoSWABでは，都内でサンプリングを予定しています．
 ## ・参考HP
 [MetaSUB](http://metasub.org/)  
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-NYの地下鉄にいる微生物を網羅的に調べたWeill Cornell Medical CollegeのMason博士が立ち上げたコンソーシアム．
+NYの地下鉄にいる微生物を網羅的に調べたWeill Cornell Medical CollegeのMason博士が立ち上げたコンソーシアム．  
 [haruosuz/metasub](https://github.com/haruosuz/metasub/blob/master/README.md)
