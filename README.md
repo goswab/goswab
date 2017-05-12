@@ -191,7 +191,7 @@ GoSWABでは，都内でサンプリングを予定しています．
     PathoMAPを取り上げた日本語サイト．  
 
 [WIRED: How Designers and Scientists Are Using Bees to Map NYC’s Microbes](https://www.wired.com/2016/08/bees-help-build-gorgeous-maps-nycs-microbes/)  
-蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集し微生物を可視化するプロジェクト．
+　　蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集し微生物を可視化するプロジェクト．
 
 
 
