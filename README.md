@@ -30,7 +30,7 @@ Last Update 2017-05-11
 
 ### 都市における微生物の重要性
 
-海外では都市環境における，微生物のメタデータを収集し解析しているプロジェクトが多く展開されています．  
+海外では都市環境における，微生物のメタデータを収集し解析しているプロジェクトが多く展開されています．  
 ここではその一部を紹介します．  
 
 ### [Bee Debris Project (MIT Media Lab)](https://www.wired.com/2016/08/bees-help-build-gorgeous-maps-nycs-microbes/)  
