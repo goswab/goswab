@@ -37,12 +37,14 @@ Last Update 2017-05-11
 
 蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集しています．  
 人間の目には見えない微生物を可視化するプロジェクトです．  
+
 <img src="http://i.imgur.com/6T0V2QA.jpg" width="480px">
 
 ### [Pathomap Project (Well Cornell Medical College)](http://www.pathomap.org/)  
 
 ニューヨークの地下鉄に生息する細菌を1年半にわたって解析し地図上にマッピングしています．  
 サンプリングした全域において抗生物質耐性菌が発見されました．  
+
 <img src="https://si.wsj.net/public/resources/images/BN-GU377_0204pa_G_20150204111548.jpg" width="480px">
 
 ### 東京オリンピックにむけて
