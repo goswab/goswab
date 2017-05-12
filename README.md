@@ -31,7 +31,7 @@ Last Update 2017-05-11
 ### 都市における微生物の重要性
 
 #### [Bee Debris Project (MIT Media Lab)](https://www.wired.com/2016/08/bees-help-build-gorgeous-maps-nycs-microbes/)
-蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集しました．  
+蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集しています．  
 人間の目には見えない微生物を可視化するプロジェクトです．
 
 #### [Pathomap Project (Well Cornell Medical College)](http://www.pathomap.org/)
