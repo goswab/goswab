@@ -35,7 +35,7 @@ Last Update 2017-05-11
 
 ### [Bee Debris Project (MIT Media Lab)](https://www.wired.com/2016/08/bees-help-build-gorgeous-maps-nycs-microbes/)  
 
-蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集しています．  
+蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集しています．  
 人間の目には見えない微生物を可視化するプロジェクトです．  
 
 <img src="http://i.imgur.com/6T0V2QA.jpg" width="480px">
