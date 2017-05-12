@@ -47,6 +47,7 @@ Last Update 2017-05-11
 
 <img src="https://si.wsj.net/public/resources/images/BN-GU377_0204pa_G_20150204111548.jpg" width="480px">
 
+
 ### 東京オリンピックにむけて
 
 日本は2020年に東京オリンピック開催を控えています．  
