@@ -30,11 +30,13 @@ Last Update 2017-05-11
 
 ### 都市における微生物の重要性
 
-#### Bee Debris Project (MIT Media Lab)
+#### [Bee Debris Project (MIT Media Lab)](https://www.wired.com/2016/08/bees-help-build-gorgeous-maps-nycs-microbes/)
 蜂の巣の底に溜まっているホコリのゲノム解析を行い周辺環境のメタゲノムデータを収集．  
 人間の目には見えない微生物を可視化するプロジェクト．
 
-#### Pathomap Project (Well Cornell Medical College)
+#### [Pathomap Project (Well Cornell Medical College)](http://www.pathomap.org/)
+ニューヨークの地下鉄に生息する細菌を1年半にわたって解析し，地図上にマッピング．  
+サンプリングした全域において抗生物質耐性菌が発見された．  
 
 ### 東京オリンピックにむけて
 
@@ -177,7 +179,7 @@ GoSWABでは，都内でサンプリングを予定しています．
 
 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)  
     PathoMAPを取り上げた日本語サイト．  
-
+[WIRED: How Designers and Scientists Are Using Bees to Map NYC’s Microbes](https://www.wired.com/2016/08/bees-help-build-gorgeous-maps-nycs-microbes/)
 
 
 
