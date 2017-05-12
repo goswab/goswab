@@ -45,7 +45,8 @@ Last Update 2017-05-11
 ニューヨークの地下鉄に生息する細菌を1年半にわたって解析し地図上にマッピングしています．  
 サンプリングした全域において抗生物質耐性菌が発見されました．  
 
-<img src="https://si.wsj.net/public/resources/images/BN-GU377_0204pa_G_20150204111548.jpg" width="480px">
+<img src="https://si.wsj.net/public/resources/images/BN-GU377_0204pa_G_20150204111548.jpg" width="480px">  
+"[THE WALL STREET JOURNAL](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)より引用"
 
 
 ### 東京オリンピックにむけて
