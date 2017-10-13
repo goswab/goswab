@@ -188,7 +188,7 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 
 ---
 ## ・参考HP
-[1本の綿棒から、一滴のDNAから世界を変える研究を！](http://todai-umeet.com/article/28577/)  
+[1本の綿棒から、一滴のDNAから世界を変える研究を！](http://todai-umeet.com/article/28577/)  
 東大オンラインメディア「UmeeT」にGoSWAB の活動が取り上げられました．  
 
 [MetaSUB](http://metasub.org/)  
