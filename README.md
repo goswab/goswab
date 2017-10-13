@@ -104,7 +104,8 @@ GoSWAB では渋谷をサンプリングしました．
 <img src="https://i.imgur.com/0Tzr91J.jpg" width="640px">  
   
 鶴岡南高校のサンプリングの様子は，地元紙「荘内日報」にも取り上げられました．  
-<img src="https://i.imgur.com/8tisb4E.jpg" width="640px">
+  
+<img src="https://i.imgur.com/8tisb4E.jpg" width="480px">
   
 ### 定期ミーティング
 
