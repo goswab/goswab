@@ -92,17 +92,17 @@ MetaSUB City Sampling Day の目標．
   2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡  
   3. 創薬のための新規生合成遺伝子クラスターの同定**  
   
-GoSWAB では渋谷をサンプリングしました．  
+GoSWAB では渋谷・山形県立鶴岡南高校をサンプリングしました．  
   
 ・渋谷サンプリングの様子  
   
 <img src="https://i.imgur.com/Feu6pzr.jpg" width="480px">  
   
-・鶴岡南高校サンプリングの様子  
+・山形県立鶴岡南高校サンプリングの様子  
   
 <img src="https://i.imgur.com/0Tzr91J.jpg" width="480px">  
-  
-鶴岡南高校のサンプリングの様子は，地元紙「荘内日報」にも取り上げられました．  
+  
+山形県立鶴岡南高校の高校生と行ったサンプリングの様子は，地元紙「荘内日報」にも取り上げられました．  
   
 <img src="https://i.imgur.com/8tisb4E.jpg" width="480px">
   
