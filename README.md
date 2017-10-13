@@ -87,13 +87,14 @@ GoSWABの目的は
 ### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
 
 6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
+  
 MetaSUB City Sampling Day の目標．  
 **1. 地理空間メタゲノムと法医学遺伝地図の作成  
   2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡  
   3. 創薬のための新規生合成遺伝子クラスターの同定**  
-  
+  
 GoSWAB では渋谷をサンプリングしました．  
-<img src="https://i.imgur.com/Feu6pzr.jpg" width="320px">  
+<img src="https://i.imgur.com/Feu6pzr.jpg" width="640px">  
 
 ### 定期ミーティング
 
