@@ -77,12 +77,23 @@ GoSWABの目的は
 ### 都市圏でのサンプリング
 
 都心部の大学，施設，公共交通機関でのサンプリングを実施しており，  
-2017年5月現在で10箇所以上，300以上のサンプルを保有しています．
+2017年10月現在で10箇所以上，500以上のサンプルを保有しています．
 
 ### サンプリングの様子
 
 <img src="http://i.imgur.com/F4ZfG4E.jpg" width="320px"> <img src="http://i.imgur.com/SP9HMj3.jpg" width="320px">
-<img src="http://i.imgur.com/tyvD5NI.jpg" width="320px"> <img src="http://i.imgur.com/wo4LkIb.jpg" width="320px">
+<img src="http://i.imgur.com/tyvD5NI.jpg" width="320px"> <img src="http://i.imgur.com/wo4LkIb.jpg" width="320px">  
+
+### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
+
+6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
+MetaSUB City Sampling Day の目標．  
+**1. 地理空間メタゲノムと法医学遺伝地図の作成  
+  2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡  
+  3. 創薬のための新規生合成遺伝子クラスターの同定**  
+  
+GoSWAB では渋谷をサンプリングしました．  
+<img src="https://i.imgur.com/Feu6pzr.jpg" width="320px">  
 
 ### 定期ミーティング
 
@@ -161,20 +172,12 @@ GoSWABプロジェクトは，都市の新たなデザインを目的として�
 
 **Mail**: contact.goswab[@]gmail.com  
 
-### [MetaSUB City Sampling Day](http://metasub.org/city-sampling-day/)
-
-6/21(水)に世界で同時に都市環境のサンプリングを行うMetaSUBの公式イベント．  
-MetaSUB City Sampling Day の目標．  
-**1. 地理空間メタゲノムと法医学遺伝地図の作成  
-  2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡  
-  3. 創薬のための新規生合成遺伝子クラスターの同定**  
-
 <img src="http://i.imgur.com/CTZhrUN.jpg" width="640px">
-
 
 ---
 ## ・参考HP
-[1本の綿棒から、一滴のDNAから世界を変える研究を！](http://todai-umeet.com/article/28577/)  
+[1本の綿棒から、一滴のDNAから世界を変える研究を！](http://todai-umeet.com/article/28577/)  
+東大オンラインメディア「UmeeT」にGoSWAB の活動が取り上げられました．  
 
 [MetaSUB](http://metasub.org/)  
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
