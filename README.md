@@ -96,8 +96,8 @@ MetaSUB City Sampling Day の目標．
 GoSWAB では渋谷をサンプリングしました．  
   
 ・渋谷サンプリングの様子  
-<img src="https://i.imgur.com/Feu6pzr.jpg" width="640px">  
-  
+<img src="https://i.imgur.com/Feu6pzr.jpg" width="640px">  
+  
 ・鶴岡南高校サンプリングの様子  
 <img src="https://i.imgur.com/0Tzr91J.jpg" width="640px">  
 
