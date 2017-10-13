@@ -96,12 +96,16 @@ MetaSUB City Sampling Day の目標．
 GoSWAB では渋谷をサンプリングしました．  
   
 ・渋谷サンプリングの様子  
+  
 <img src="https://i.imgur.com/Feu6pzr.jpg" width="640px">  
   
 ・鶴岡南高校サンプリングの様子  
+  
 <img src="https://i.imgur.com/0Tzr91J.jpg" width="640px">  
-
-
+  
+鶴岡南高校のサンプリングの様子は，地元紙「荘内日報」にも取り上げられました．  
+<img src="https://i.imgur.com/8tisb4E.jpg" width="640px">
+  
 ### 定期ミーティング
 
 先学期は，毎週水曜に東京大学駒場キャンパスで行っていました．  
