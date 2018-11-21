@@ -12,7 +12,7 @@ Last Update 2018-07-02
 # GoSWAB Project
 
 日本の都市環境（公共交通機関，大学，商業・観光施設）の微生物・ヒトをはじめとしたメタゲノム調査プロジェクト．
-<img src="https://i.imgur.com/j4Uzvk6s.png">
+<img src="https://i.imgur.com/j4Uzvk6m.png">
 
 ---
 
